@@ -23,7 +23,7 @@
         {
             "ID": 102,
             "Name": "Liga Alef",
-            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Liga_Alef_logo.svg/1200px-Liga_Alef_logo.svg.png",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/3/3e/Liga_Alef_logo.svg",
             "CountryID": 1
         }
     ],
@@ -216,44 +216,27 @@
             "ShortName": "MJF",
             "ImageURL": "https://upload.wikimedia.org/wikipedia/en/c/c0/Maccabi_Jaffa_FC_logo.svg",
             "LeagueID": 101
-        }
-    ],
-    "PlayerData": [
-        {
-            "ID": 1,
-            "Forename": "Eran",
-            "Surname": "Zahavi",
-            "ClubID": 8,
-            "Ability": 88,
-            "Potential": 88,
-            "ImageURL": "https://tmssl.akamaized.net/images/foto/normal/eran-zehavi-1694533003-116776.jpg"
         },
         {
-            "ID": 2,
-            "Forename": "Dor",
-            "Surname": "Peretz",
-            "ClubID": 8,
-            "Ability": 75,
-            "Potential": 78,
-            "ImageURL": "https://tmssl.akamaized.net/images/foto/normal/dor-peretz-1695645108-117054.jpg"
+            "ID": 28,
+            "Name": "Maccabi Herzliya",
+            "ShortName": "MHZ",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/70/Maccabi_Herzliya_F.C._logo.svg",
+            "LeagueID": 102
         },
         {
-            "ID": 3,
-            "Forename": "Omer",
-            "Surname": "Atzili",
-            "ClubID": 9,
-            "Ability": 80,
-            "Potential": 82,
-            "ImageURL": "https://tmssl.akamaized.net/images/foto/normal/omer-atzili-1690610367-116317.jpg"
+            "ID": 29,
+            "Name": "Hapoel Kfar Shalem",
+            "ShortName": "KFS",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/8c/Hapoel_Kfar_Shalem_FC_logo.svg",
+            "LeagueID": 102
         },
         {
-            "ID": 4,
-            "Forename": "Eli",
-            "Surname": "Dasa",
-            "ClubID": 9,
-            "Ability": 70,
-            "Potential": 75,
-            "ImageURL": "https://tmssl.akamaized.net/images/foto/normal/eli-dasa-1689631234-114567.jpg"
+            "ID": 30,
+            "Name": "Hapoel Marmorek",
+            "ShortName": "MKM",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Hapoel_Marmorek_FC_logo.svg",
+            "LeagueID": 102
         }
     ],
     "CupData": [
@@ -304,5 +287,6 @@
             "ID": 10,
             "Name": "Ashdod Municipal Stadium"
         }
-    ]
+    ],
+    "PlayerData": []
 }
